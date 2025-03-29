@@ -109,13 +109,13 @@ Atualmente, estou desenvolvendo projetos que exploram interfaces interativas, ot
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                 <div className="p-4">
-                  <a href="#" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
+                  <a href="https://memoriasdecasal.netlify.app" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
                 </div>
               </div>
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-2">E-commerce Platform</h3>
-              <p className="text-blue-200 mb-4">Plataforma completa de e-commerce com painel administrativo, gestão de produtos e análise de vendas</p>
+              <h3 className="text-xl font-semibold mb-2">Plataforma de armazenamento de Memorias</h3>
+              <p className="text-blue-200 mb-4">Plataforma Para Salvar as Memorias de um casal</p>
               <div className="flex flex-wrap gap-2">
                 <span className="px-3 py-1 bg-blue-500/20 rounded-full text-sm">React</span>
                 <span className="px-3 py-1 bg-green-500/20 rounded-full text-sm">Node.js</span>
@@ -132,13 +132,13 @@ Atualmente, estou desenvolvendo projetos que exploram interfaces interativas, ot
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                 <div className="p-4">
-                  <a href="#" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
+                  <a href="acervogeek28.netlify.app" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
                 </div>
               </div>
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-2">Dashboard Analytics</h3>
-              <p className="text-blue-200 mb-4">Dashboard para análise de dados em tempo real com visualizações interativas e relatórios personalizados</p>
+              <h3 className="text-xl font-semibold mb-2">LandingPage Acervo de Livros</h3>
+              <p className="text-blue-200 mb-4">Plataforma em desenvolvimento para a criação de um acervo de livros</p>
               <div className="flex flex-wrap gap-2">
                 <span className="px-3 py-1 bg-blue-500/20 rounded-full text-sm">TypeScript</span>
                 <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">GraphQL</span>
