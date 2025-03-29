@@ -103,7 +103,7 @@ Atualmente, estou desenvolvendo projetos que exploram interfaces interativas, ot
           <div className="bg-white/5 backdrop-blur-sm rounded-xl overflow-hidden group">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80" 
+                src="assets/Memorias.png" 
                 alt="Projeto 1" 
                 className="w-full h-48 object-cover group-hover:scale-105 transition duration-300"
               />
@@ -126,13 +126,13 @@ Atualmente, estou desenvolvendo projetos que exploram interfaces interativas, ot
           <div className="bg-white/5 backdrop-blur-sm rounded-xl overflow-hidden group">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80" 
+                src="assets/Acervo.png" 
                 alt="Projeto 2" 
                 className="w-full h-48 object-cover group-hover:scale-105 transition duration-300"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                 <div className="p-4">
-                  <a href="acervogeek28.netlify.app" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
+                  <a href="https://acervogeek28.netlify.app" className="text-white hover:text-blue-300 transition">Ver Projeto →</a>
                 </div>
               </div>
             </div>
