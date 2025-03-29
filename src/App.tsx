@@ -195,7 +195,7 @@ Atualmente, estou desenvolvendo projetos que exploram interfaces interativas, ot
 
       <footer className="container mx-auto px-4 py-8 text-center text-blue-200">
         <p className="flex items-center justify-center gap-2">
-          Feito com <Heart className="w-4 h-4 text-red-400" /> por Pyetro © {new Date().getFullYear()}
+          pPyetro ©{new Date().getFullYear()}
         </p>
       </footer>
     </div>
